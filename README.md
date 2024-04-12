@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -16,12 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg5YWw1cHRqaTB5ajgzc3ZoNWIzczE0MG00d2F0Ymxib2V0aGk2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy-downsized-large.gif"  />
 </div>
 
 ###
