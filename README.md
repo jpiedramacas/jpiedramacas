@@ -20,6 +20,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://statics.memondo.com/p/02/gifs/2015/06/GIF_226386_745003b63980406a9bb3f97e249bb0d8_todos_reaccionamos_igual_cuando_se_nos_bloquea_el_ordenador.gif"  />
+</div>
+
+###
+
 <p align="left">¡Hola! Soy Gio, un apasionado de la informática en constante aprendizaje. Aquí encontrarás información sobre mis estudios y proyectos relacionados con la tecnología.<br><br>## Estudios<br><br>- 🎓 **Formación Profesional (FP) de Grado Medio en Informática**<br>  - Institución: [Nombre de la institución educativa]<br>  - Duración: [Años que duró el programa]<br><br>## Cursando Actualmente<br><br>- 🌱 **Programador AWS**<br>  - Descripción: Actualmente estoy cursando un programa de formación en AWS (Amazon Web Services) para desarrollar habilidades en la nube y tecnologías asociadas.<br>  - Institución: [Nombre de la institución o plataforma de formación]<br>  - Duración: [Duración estimada del curso]<br><br>## Objetivos<br><br>Mi objetivo principal es ampliar mis conocimientos en desarrollo de software y tecnologías en la nube, especialmente en entornos AWS. Estoy emocionado de compartir mis avances y proyectos en este perfil de GitHub.</p>
 
 ###
