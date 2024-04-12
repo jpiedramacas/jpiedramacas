@@ -7,21 +7,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://statics.memondo.com/p/02/gifs/2015/06/GIF_226386_745003b63980406a9bb3f97e249bb0d8_todos_reaccionamos_igual_cuando_se_nos_bloquea_el_ordenador.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg5YWw1cHRqaTB5ajgzc3ZoNWIzczE0MG00d2F0Ymxib2V0aGk2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy-downsized-large.gif"  />
 </div>
 
 ###
@@ -49,6 +49,12 @@
   <a href="https://open.spotify.com/user/1148718917">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1148718917&count=5&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0eTZnODM5NGIxcTdqcjE1OXMzMWFvNXJsOTEzeHZoMnRmZ240cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQpaXZo7GGWD0k/giphy.gif"  />
 </div>
 
 ###
