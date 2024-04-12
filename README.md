@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -26,7 +20,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Gio, un apasionado de la informática en constante aprendizaje. Aquí encontrarás información sobre mis estudios y proyectos relacionados con la tecnología.<br><br>## Estudios<br><br>- 🎓 **Formación Profesional (FP) de Grado Medio en Informática**<br>  - Institución: [Nombre de la institución educativa]<br>  - Duración: [Años que duró el programa]<br><br>## Cursando Actualmente<br><br>- 🌱 **Programador AWS**<br>  - Descripción: Actualmente estoy cursando un programa de formación en AWS (Amazon Web Services) para desarrollar habilidades en la nube y tecnologías asociadas.<br>  - Institución: [Nombre de la institución o plataforma de formación]<br>  - Duración: [Duración estimada del curso]<br><br>## Objetivos<br><br>Mi objetivo principal es ampliar mis conocimientos en desarrollo de software y tecnologías en la nube, especialmente en entornos AWS. Estoy emocionado de compartir mis avances y proyectos en este perfil de GitHub.</p>
+<p align="left">Bienvenido/a a mi perfil de GitHub! 👋<br><br>Sobre mí<br>Soy un entusiasta de la informática y programación apasionado por explorar nuevas tecnologías y desarrollar soluciones creativas. Mi experiencia abarca áreas como el desarrollo web, la ciencia de datos y la programación de sistemas.<br><br>🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en Python y JavaScript.<br>💻 Disfruto trabajando en proyectos que desafían mis conocimientos y me permiten crecer como desarrollador.<br>📊 Me interesa la visualización de datos y el análisis estadístico para obtener información significativa.</p>
 
 ###
 
@@ -47,18 +41,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/1148718917">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1148718917&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="200" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="202" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0eTZnODM5NGIxcTdqcjE1OXMzMWFvNXJsOTEzeHZoMnRmZ240cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQpaXZo7GGWD0k/giphy.gif"  />
-</div>
+<p align="left">## Estudios<br><br>- 🎓 **Formación Profesional (FP) de Grado Medio en Informática**<br>  - Institución: [Nombre de la institución educativa]<br>  - Duración: [Años que duró el programa]<br><br>## Cursando Actualmente<br><br>- 🌱 **Programador AWS**<br>  - Descripción: Actualmente estoy cursando un programa de formación en AWS (Amazon Web Services) para desarrollar habilidades en la nube y tecnologías asociadas.<br>  - Institución: [Nombre de la institución o plataforma de formación]<br>  - Duración: [Duración estimada del curso]<br><br>## Objetivos<br><br>Mi objetivo principal es ampliar mis conocimientos en desarrollo de software y tecnologías en la nube, especialmente en entornos AWS. Estoy emocionado de compartir mis avances y proyectos en este perfil de GitHub.</p>
 
 ###
