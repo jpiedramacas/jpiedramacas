@@ -30,7 +30,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
 </div>
@@ -53,8 +55,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0eTZnODM5NGIxcTdqcjE1OXMzMWFvNXJsOTEzeHZoMnRmZ240cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQpaXZo7GGWD0k/giphy.gif"  />
+  <img height="202" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0eTZnODM5NGIxcTdqcjE1OXMzMWFvNXJsOTEzeHZoMnRmZ240cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQpaXZo7GGWD0k/giphy.gif"  />
 </div>
 
 ###
