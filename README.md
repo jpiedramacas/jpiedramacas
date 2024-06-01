@@ -1,64 +1,50 @@
-<h2 align="left">Hello There 👋! I'm Gio</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-</div>
-
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif"  />
+<h1 align="center">Hello There, Soy Gio!</h1>
 
-<p align="left">
-  Bienvenido/a a mi perfil de GitHub! 👋<br><br>
-  <strong>Sobre mí</strong><br>
-  Soy un entusiasta de la informática y la programación, apasionado por explorar nuevas tecnologías y desarrollar soluciones creativas. 
-  Mi experiencia abarca áreas como el desarrollo web, la ciencia de datos y la programación de sistemas.<br><br>
-  🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en Python y JavaScript.<br>
-  💻 Disfruto trabajando en proyectos que desafían mis conocimientos y me permiten crecer como desarrollador.<br>
-  📊 Me interesa la visualización de datos y el análisis estadístico para obtener información significativa.
-</p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+</div>
+
+###
+
+<h2 align="left">DevOps Junior</h2>
+
+###
+
+<h6 align="left">Formación en sistemas microinformáticos y redes.<br>Esta base me permitió desarrollar habilidades esenciales para mi carrera.<br>Especialización:<br><br>Programa AWS Academy Cloud Foundations.<br>Profundización en el desarrollo en la nube y tecnologías asociadas.</h6>
+
+###
+
+<img src="https://raw.githubusercontent.com/jpiedramacas/jpiedramacas/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Habilidades y Competencias</h2>
+
+###
+
+<h6 align="left">AWS Cloud:<br><br>Implementación de estrategias y programas en la nube de AWS.<br>Dominio de herramientas y servicios de AWS.<br>Innovación Tecnológica:<br><br>Compromiso con la adopción de tecnologías emergentes.<br>Constante actualización y aprendizaje.<br>Entornos Educativos y Empresariales:<br><br>Aplicación de soluciones tecnológicas de vanguardia.<br>Experiencia en la mejora de procesos tanto en el ámbito educativo como en el empresarial.</h6>
+
+###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://linktr.ee/tuperfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linktree logo" />
+  <a href="https://www.linkedin.com/in/jpiedramacas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jpiedramacas/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpiedramacas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpiedramacas&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">📚 Estudios</h3>
-<ul>
-  <li>🎓 <strong>Formación Profesional (FP) de Grado Medio en Informática</strong><br>
-    Institución: [Nombre de la institución educativa]<br>
-    Duración: [Años que duró el programa]
-  </li>
-</ul>
-
-<h3 align="left">📘 Cursando Actualmente</h3>
-<ul>
-  <li>🌱 <strong>Programador AWS</strong><br>
-    Descripción: Actualmente estoy cursando un programa de formación en AWS (Amazon Web Services) para desarrollar habilidades en la nube y tecnologías asociadas.<br>
-    Institución: [Nombre de la institución o plataforma de formación]<br>
-    Duración: [Duración estimada del curso]
-  </li>
-</ul>
-
-<h3 align="left">🎯 Objetivos</h3>
-<p>Mi objetivo principal es ampliar mis conocimientos en desarrollo de software y tecnologías en la nube, especialmente en entornos AWS. Estoy emocionado de compartir mis avances y proyectos en este perfil de GitHub.</p>
+###
