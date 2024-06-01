@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Formación en sistemas microinformáticos y redes.<br>Esta base me permitió desarrollar habilidades esenciales para mi carrera.<br>Especialización:<br><br>Programa AWS Academy Cloud Foundations.<br>Profundización en el desarrollo en la nube y tecnologías asociadas.</p>
+<h3 align="left">Mis objetivos incluyen continuar desarrollando mis habilidades en AWS y otras tecnologías de la nube, así como participar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos. A largo plazo, aspiro a convertirme en un experto en Platform Engineering, SRE y DevOps, liderando iniciativas tecnológicas que impulsen la transformación digital en diversas industrias.</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">AWS Cloud:<br><br>Implementación de estrategias y programas en la nube de AWS.<br>Dominio de herramientas y servicios de AWS.<br>Innovación Tecnológica:<br><br>Compromiso con la adopción de tecnologías emergentes.<br>Constante actualización y aprendizaje.<br>Entornos Educativos y Empresariales:<br><br>Aplicación de soluciones tecnológicas de vanguardia.<br>Experiencia en la mejora de procesos tanto en el ámbito educativo como en el empresarial.</p>
+<h3 align="left">AWS Cloud:<br>Como profesional, poseo una amplia experiencia en la implementación de estrategias y programas en la nube de AWS. Mi conocimiento profundo y práctico de las herramientas y servicios de AWS me permite diseñar y ejecutar soluciones escalables y eficientes en la nube.<br><br>Innovación Tecnológica:<br>Me caracterizo por mi compromiso con la adopción de tecnologías emergentes. Constantemente busco oportunidades para integrar nuevas herramientas y metodologías en mis proyectos, lo que me permite mantenerme a la vanguardia en un entorno tecnológico en constante evolución.<br><br>Entornos Educativos y Empresariales:<br>He demostrado mi capacidad para aplicar soluciones tecnológicas innovadoras tanto en entornos educativos como empresariales. Mi experiencia en la mejora de procesos me ha permitido identificar y abordar eficazmente los desafíos tecnológicos, mejorando la eficiencia y la productividad en ambientes diversos.</h3>
 
 ###
 
@@ -45,8 +45,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpiedramacas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpiedramacas&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jpiedramacas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpiedramacas&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
