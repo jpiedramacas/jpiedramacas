@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/jpiedramacas/jpiedramacas/raw/output/snake.svg)
-
 <br clear="both">
 
 <h1 align="center">Hello There, Soy Gio!</h1>
