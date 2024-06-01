@@ -1,7 +1,5 @@
 <h2 align="left">Hello There 👋! I'm Gio</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
@@ -18,27 +16,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif"  />
 
-###
-
 <p align="left">
   Bienvenido/a a mi perfil de GitHub! 👋<br><br>
   <strong>Sobre mí</strong><br>
-  Soy un entusiasta de la informática y programación apasionado por explorar nuevas tecnologías y desarrollar soluciones creativas. 
+  Soy un entusiasta de la informática y la programación, apasionado por explorar nuevas tecnologías y desarrollar soluciones creativas. 
   Mi experiencia abarca áreas como el desarrollo web, la ciencia de datos y la programación de sistemas.<br><br>
   🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en Python y JavaScript.<br>
   💻 Disfruto trabajando en proyectos que desafían mis conocimientos y me permiten crecer como desarrollador.<br>
   📊 Me interesa la visualización de datos y el análisis estadístico para obtener información significativa.
 </p>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
@@ -49,13 +39,9 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/jpiedramacas/count.svg?"  />
 </div>
-
-###
 
 <h3 align="left">📚 Estudios</h3>
 <ul>
@@ -76,6 +62,3 @@
 
 <h3 align="left">🎯 Objetivos</h3>
 <p>Mi objetivo principal es ampliar mis conocimientos en desarrollo de software y tecnologías en la nube, especialmente en entornos AWS. Estoy emocionado de compartir mis avances y proyectos en este perfil de GitHub.</p>
-
-###
-
