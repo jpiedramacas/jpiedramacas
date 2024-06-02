@@ -1,9 +1,5 @@
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jpiedramacas/jpiedramacas/output/snake.svg" alt="Snake animation" />
-
-<br clear="both">
-
 <h1 align="center">Hello There, Soy Gio!</h1>
 
 ###
@@ -26,7 +22,9 @@
 
 ###
 
-<img src="https://github.com/jpiedramacas/jpiedramacas/raw/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jpiedramacas/jpiedramacas/output/snake.svg" alt="Snake animation" />
 
 ###
 
