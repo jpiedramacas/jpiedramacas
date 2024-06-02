@@ -24,7 +24,7 @@
 
 ###
 
-<img src="https://github.com/jpiedramacas/jpiedramacas/tree/main/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/jpiedramacas/jpiedramacas/raw/output/snake.svg" alt="Snake animation" />
 
 ###
 
