@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Mis objetivos incluyen continuar desarrollando mis habilidades en AWS y otras tecnologías de la nube, así como participar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos. A largo plazo, aspiro a convertirme en un experto en Platform Engineering, SRE y DevOps, liderando iniciativas tecnológicas que impulsen la transformación digital en diversas industrias.</h4>
+<h3 align="left">Mis objetivos incluyen continuar desarrollando mis habilidades en AWS y otras tecnologías de la nube, así como participar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos. A largo plazo, aspiro a convertirme en un experto en Platform Engineering, SRE y DevOps, liderando iniciativas tecnológicas que impulsen la transformación digital en diversas industrias.</h4>
 
 ###
 <br clear="both">
@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">AWS Cloud:<br>Como profesional, poseo una amplia experiencia en la implementación de estrategias y programas en la nube de AWS. Mi conocimiento profundo y práctico de las herramientas y servicios de AWS me permite diseñar y ejecutar soluciones escalables y eficientes en la nube.<br><br>Innovación Tecnológica:<br>Me caracterizo por mi compromiso con la adopción de tecnologías emergentes. Constantemente busco oportunidades para integrar nuevas herramientas y metodologías en mis proyectos, lo que me permite mantenerme a la vanguardia en un entorno tecnológico en constante evolución.</h4>
+<h3 align="left">AWS Cloud:<br>Como profesional, poseo una amplia experiencia en la implementación de estrategias y programas en la nube de AWS. Mi conocimiento profundo y práctico de las herramientas y servicios de AWS me permite diseñar y ejecutar soluciones escalables y eficientes en la nube.<br><br>Innovación Tecnológica:<br>Me caracterizo por mi compromiso con la adopción de tecnologías emergentes. Constantemente busco oportunidades para integrar nuevas herramientas y metodologías en mis proyectos, lo que me permite mantenerme a la vanguardia en un entorno tecnológico en constante evolución.</h4>
 
 ###
 
