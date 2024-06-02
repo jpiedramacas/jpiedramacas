@@ -24,6 +24,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/jpiedramacas/jpiedramacas/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h2 align="left">Habilidades y Competencias</h2>
