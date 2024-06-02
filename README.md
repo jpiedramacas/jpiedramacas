@@ -21,11 +21,9 @@
 <h4 align="left">Mis objetivos incluyen continuar desarrollando mis habilidades en AWS y otras tecnologías de la nube, así como participar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos. A largo plazo, aspiro a convertirme en un experto en Platform Engineering, SRE y DevOps, liderando iniciativas tecnológicas que impulsen la transformación digital en diversas industrias.</h4>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/jpiedramacas/jpiedramacas/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">Habilidades y Competencias</h2>
